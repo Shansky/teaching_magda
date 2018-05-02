@@ -1,0 +1,18 @@
+[
+  "tests/test_zadanie_1.py::test_solveMeFirst[2-3-5]",
+  "tests/test_zadanie_1.py::test_solveMeFirst[30-10-40]",
+  "tests/test_zadanie_1.py::test_solveMeFirst[20-2-22]",
+  "tests/test_zadanie_1.py::test_solveMeFirst[20--2-18]",
+  "tests/test_zadanie_1.py::test_solveMeFirst[10000--10000-0]",
+  "tests/test_zadanie_2.py::test_simpleArraySum[arr0-3]",
+  "tests/test_zadanie_2.py::test_simpleArraySum[arr1-1]",
+  "tests/test_zadanie_2.py::test_simpleArraySum[arr2-15]",
+  "tests/test_zadanie_2.py::test_simpleArraySum[arr3-45]",
+  "tests/test_zadanie_3.py::test_factorial[1-1]",
+  "tests/test_zadanie_3.py::test_factorial[0-1]",
+  "tests/test_zadanie_3.py::test_factorial[2-2]",
+  "tests/test_zadanie_3.py::test_factorial[4-24]",
+  "tests/test_zadanie_3.py::test_factorial[8-40320]",
+  "tests/test_zadanie_3.py::test_factorial[45-119622220865480194561963161495657715064383733760000000000]",
+  "tests/test_zadanie_3.py::test_factorial[-1-1]"
+]
